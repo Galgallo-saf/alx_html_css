@@ -1,0 +1,76 @@
+/* ================================
+   HEADER
+=================================== */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 100px;
+    background-color: #ffffff;
+}
+
+header .logo {
+    height: 40px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #333333;
+}
+
+header nav ul li a:hover {
+    color: #FF6565; /* from figma */
+}
+
+
+/* ================================
+   BANNER (Hero Section)
+=================================== */
+
+.hero {
+    background-image: url("images/banner.jpg"); /* replace with your real path */
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    color: white;
+    text-align: center;
+    padding-top: 180px; /* aligns with Figma vertical spacing */
+}
+
+.hero h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 62px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 40px;
+}
+
+.hero .btn {
+    padding: 16px 40px;
+    background-color: #FF6565;
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    font-weight: 600;
+}
+
+.hero .btn:hover {
+    opacity: 0.9;
+}
