@@ -1,0 +1,15 @@
+0000000000000000000000000000000000000000 a41f221b0490ffa52d6a02bbfce4958574976112 Galgallo-saf <galgallosafaro5@gmail.com> 1765640217 +0300	commit (initial): Initial commit: Add headphones project files
+a41f221b0490ffa52d6a02bbfce4958574976112 a41f221b0490ffa52d6a02bbfce4958574976112 Galgallo-saf <galgallosafaro5@gmail.com> 1765688411 +0300	pull origin main --allow-unrelated-histories: updating HEAD
+a41f221b0490ffa52d6a02bbfce4958574976112 6582c47eadc3c303edeb1d319a6704833f674b2d Galgallo-saf <galgallosafaro5@gmail.com> 1765688472 +0300	commit: Save css_advanced project before pulling remote changes
+6582c47eadc3c303edeb1d319a6704833f674b2d 87a7da2891e4ceda753642a3383101d51482287d Galgallo-saf <galgallosafaro5@gmail.com> 1765688581 +0300	commit (merge): Resolve merge conflict in smile.png
+87a7da2891e4ceda753642a3383101d51482287d 09a171afc4a158390ae89b73df36259414b24173 Galgallo-saf <galgallosafaro5@gmail.com> 1765689066 +0300	commit (amend): Resolve merge conflict in smile.png
+09a171afc4a158390ae89b73df36259414b24173 f71c7ad71ab44450b0349d34ed5368dabe8d3686 Galgallo-saf <galgallosafaro5@gmail.com> 1765690934 +0300	commit: Add HMMM.. Hamburger menu toggle
+f71c7ad71ab44450b0349d34ed5368dabe8d3686 1b2e850cd34e94a8f7727dd8268801a6464eb8fb Galgallo-saf <galgallosafaro5@gmail.com> 1765691179 +0300	commit (amend): Add HMMM.. Hamburger menu toggle
+1b2e850cd34e94a8f7727dd8268801a6464eb8fb fcaec537f5af65a8c79b017d524cab796886c605 Galgallo-saf <galgallosafaro5@gmail.com> 1765691820 +0300	commit (amend): Add HMMM.. Hamburger menu toggle
+fcaec537f5af65a8c79b017d524cab796886c605 037f2aa3701941062d786f801a35c3bb05aeea26 Galgallo-saf <galgallosafaro5@gmail.com> 1765692029 +0300	commit (amend): Add HMMM.. Hamburger menu toggle
+037f2aa3701941062d786f801a35c3bb05aeea26 a41f221b0490ffa52d6a02bbfce4958574976112 Galgallo-saf <galgallosafaro5@gmail.com> 1765692091 +0300	rebase (abort): returning to refs/heads/main
+a41f221b0490ffa52d6a02bbfce4958574976112 a41f221b0490ffa52d6a02bbfce4958574976112 Galgallo-saf <galgallosafaro5@gmail.com> 1765692091 +0300	rebase (abort): returning to refs/heads/main
+a41f221b0490ffa52d6a02bbfce4958574976112 1b8e10dd521b4c95b8565af49c5a619430b2d63e Galgallo-saf <galgallosafaro5@gmail.com> 1765696504 +0300	commit: Add headphones project files with README.md
+1b8e10dd521b4c95b8565af49c5a619430b2d63e dae2d74e820e8330ee28979542bf649c6613daa8 Galgallo-saf <galgallosafaro5@gmail.com> 1765696828 +0300	commit: Move README.md to root for ALX checker
+dae2d74e820e8330ee28979542bf649c6613daa8 f65def1bf1e4c534bda6cfd24cfd25184950c12f Galgallo-saf <galgallosafaro5@gmail.com> 1765697039 +0300	commit: Initial commit: Add headphones project and README.md
+f65def1bf1e4c534bda6cfd24cfd25184950c12f beb34fabf04c6b3214ae5b867c59b457e1f375d9 Galgallo-saf <galgallosafaro5@gmail.com> 1765698078 +0300	commit: Add complete headphones project with README.md
